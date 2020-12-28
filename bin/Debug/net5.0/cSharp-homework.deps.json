@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cSharp-homework/1.0.0": {
+        "runtime": {
+          "cSharp-homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cSharp-homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

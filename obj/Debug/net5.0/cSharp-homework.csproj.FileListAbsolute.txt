@@ -1,0 +1,16 @@
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework.deps.json
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework.runtimeconfig.json
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework.runtimeconfig.dev.json
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework.dll
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/ref/cSharp-homework.dll
+/home/jaja/Desktop/cSharp-homework/bin/Debug/net5.0/cSharp-homework.pdb
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.csprojAssemblyReference.cache
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.AssemblyInfoInputs.cache
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.AssemblyInfo.cs
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.csproj.CoreCompileInputs.cache
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.dll
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/ref/cSharp-homework.dll
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.pdb
+/home/jaja/Desktop/cSharp-homework/obj/Debug/net5.0/cSharp-homework.genruntimeconfig.cache
